@@ -1,9 +1,7 @@
 <h1 align="center">🚀 你好，我是 Dahl！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 [![Email](https://img.shields.io/badge/Email-daer3942%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daer3942@qq.com)
-
 [![Location](https://img.shields.io/badge/Location-木卫四-8B5CF6?style=flat-square&logo=spacex&logoColor=white)]()
-
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-Learning-00599C?style=flat-square&logo=c&logoColor=white)]()
 [![中文](https://img.shields.io/badge/中文-母语-FC0D1B?style=flat-square&logo=duolingo&logoColor=white)]()
