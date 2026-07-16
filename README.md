@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-Learning-00599C?style=flat-square&logo=c&logoColor=white)]()
-[![Chinese](https://img.shields.io/badge/中文-母语-FC0D1B?style=flat-square&logo=duolingo&logoColor=white)]()
+[![中文](https://img.shields.io/badge/中文-母语-FC0D1B?style=flat-square&logo=duolingo&logoColor=white)]()
 [![English](https://img.shields.io/badge/English-工作交流-0A7E8C?style=flat-square&logo=duolingo&logoColor=white)]()
 
 <p align="center">
