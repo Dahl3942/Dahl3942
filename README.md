@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,tensorflow,pytorch,sklearn,docker,git,ps,ai&theme=dark)](https://skillicons.dev)
 
-> “Are you wining son? Did you become a doctor or a lawyer?”
+> “Are you winning son? Did you become a doctor or a lawyer?”
 >
 > “Neither, Dad. I became a programmer.”
 >
