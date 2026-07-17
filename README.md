@@ -18,7 +18,5 @@
 > “Get out of my house.”
 
 <br>
-
-*— 幸好我来自木卫四，没人能把我赶出去* 
-
+ 
 </details>
