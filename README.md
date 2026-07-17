@@ -1,4 +1,4 @@
-<h1 align="center">🚀 你好，我是 Dahl！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">你好，我是 Dahl！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 [![Email](https://img.shields.io/badge/Email-daer3942%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daer3942@qq.com)
 [![Location](https://img.shields.io/badge/Location-木卫四-8B5CF6?style=flat-square&logo=spacex&logoColor=white)](https://science.nasa.gov/jupiter/jupiter-moons/callisto/)
